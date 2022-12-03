@@ -1,4 +1,4 @@
-(ns day-two
+(ns day02
   (:require [clojure.java.io :as io]))
 
 (def opponent->move {"A" :rock
